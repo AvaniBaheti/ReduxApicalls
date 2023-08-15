@@ -1,4 +1,4 @@
-#Api Call using Redux Toolkiy.
+# Api Call using Redux Toolkiy.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
